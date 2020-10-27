@@ -6,7 +6,7 @@ cffi==1.8.3
 choice==0.1
 click==6.6
 colorama==0.3.7
-cryptography==1.5.2
+cryptography==3.2
 docopt==0.6.2
 enum34==1.1.6
 fileread==1.0.0
