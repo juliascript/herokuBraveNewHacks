@@ -24,7 +24,7 @@ MarkupSafe==0.23
 mechanize==0.2.5
 MongoAlchemy==0.19
 paramiko==2.0.2
-py==1.4.31
+py==1.10.0
 pyasn1==0.1.9
 pycparser==2.16
 pyenchant==1.6.8
