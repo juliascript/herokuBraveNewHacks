@@ -19,7 +19,7 @@ idna==2.1
 ipaddress==1.0.17
 itsdangerous==0.24
 Jinja2==2.8
-lxml==3.6.4
+lxml==4.9.1
 MarkupSafe==0.23
 mechanize==0.2.5
 MongoAlchemy==0.19
